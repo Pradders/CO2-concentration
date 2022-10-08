@@ -10,3 +10,5 @@ Packages used:
 2. Pandas to extract the relevant data and extract it to a numeric dataframe
 3. Numpy and Scikit-learn for linear regressional analysis
 4. Matplotlib for displaying the original plot and the linear regression
+
+Scikit-learn utilised from here: https://towardsdatascience.com/linear-regression-in-6-lines-of-python-5e1d0cd05b8d
